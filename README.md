@@ -1,17 +1,12 @@
-## My Project
 
-TODO: Fill this README out!
+# oracle-import-automation
 
-Be sure to:
+The repository includes two python code scripts leveraged in the APG article to automate Oracle import automation and report progress of the import
 
-* Change the title in this README
-* Edit your repository description on GitHub
+The code in this repository helps you set up the following target architecture.
 
-## Security
+https://1a9zxhkqsj.execute-api.us-west-2.amazonaws.com/v1/contents/4669a0aa-e2ad-46bd-82e8-78cc08f99f5e/images/c7bd3beb-ca41-4166-a1ca-152b45d96516.jpeg
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
-## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
-
+For prerequisites and instructions for using this AWS Prescriptive Guidance pattern, see Oracle Database Import Automation APG pattern
+https://apg-library.amazonaws.com/content-update-viewer/author/4669a0aa-e2ad-46bd-82e8-78cc08f99f5e
